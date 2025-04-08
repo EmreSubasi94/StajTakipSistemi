@@ -25,7 +25,7 @@ function App() {
             <line x1="12" y1="22.08" x2="12" y2="12"></line>
           </svg>
         </div>
-        <h1 className={styles.header1}>Stajyer Takip Sistemi</h1>
+        <h1 className={styles.header1}>Stajyer jubuhbhubhu</h1>
         <p className={styles.p1}>
           Öğrenciler, kurumlar ve üniversiteler için kullanışlı ve modern bir
           staj takip platformu
